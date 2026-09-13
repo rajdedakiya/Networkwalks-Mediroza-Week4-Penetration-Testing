@@ -1,4 +1,4 @@
-# Mediroza-Week4-Penetration-Testing
+# Networkwalks-Mediroza-Week4-Penetration-Testing
 
 ## Web Application Security Assessment | Networkwalks Week 4 Capstone
 
